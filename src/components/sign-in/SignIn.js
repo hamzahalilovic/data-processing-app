@@ -64,7 +64,7 @@ export default ({ loginGuestHandler }) => {
           className={classes.submit}
           onClick={(e) => loginGuestHandler(e)}
         >
-          Continue as Guest
+          USE MOCK DATA
         </Button>
       </div>
     </Container>
